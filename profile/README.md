@@ -5,5 +5,7 @@ We're creating modular, efficient and production ready assets for immersive mult
 
 We also write guides with thorough examples on how to use some of the most popular libraries in Unity.
 
+More coming soon!
+
 ## Join Us
 [Discord](https://discord.gg/nWdrxCBHRV)
