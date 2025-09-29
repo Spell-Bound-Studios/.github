@@ -8,5 +8,6 @@ We also write guides with thorough examples on how to use some of the most popul
 More coming soon!
 
 ## Join Us
-
-![Discord Banner 1](https://discord.com/api/guilds/[${{secrets.DISCORD_SERVER_ID}}]/widget.png?style=banner1)
+<a href="https://discord.gg/CtWfrZQNhY" target="_blank">
+<img src="https://discord.com/api/guilds/${{secrets.DISCORD_SERVER_ID}}/widget.png?style=banner2" alt="Spellbound Community Discord Server">
+</a>
