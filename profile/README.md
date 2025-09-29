@@ -9,5 +9,5 @@ More coming soon!
 
 ## Join Us
 <a href="https://discord.gg/CtWfrZQNhY" target="_blank">
-<img src="https://discord.com/api/guilds/${{secrets.DISCORD_SERVER_ID}}/widget.png?style=banner2" alt="Spellbound Community Discord Server">
+    <img src="https://discord.com/api/guilds/1403395736405803229/widget.png?style=banner2" alt="Spellbound Community Discord">
 </a>
