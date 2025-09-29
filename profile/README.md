@@ -8,4 +8,5 @@ We also write guides with thorough examples on how to use some of the most popul
 More coming soon!
 
 ## Join Us
-[Discord](https://discord.gg/nWdrxCBHRV)
+
+![Discord Banner 1](https://discord.com/api/guilds/[${{secrets.DISCORD_SERVER_ID}}]/widget.png?style=banner1)
