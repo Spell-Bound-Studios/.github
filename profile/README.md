@@ -7,6 +7,8 @@ We also write guides with thorough examples on how to use some of the most popul
 
 More coming soon!
 
+https://spell-bound-studios.gitbook.io/spellbound-docs/
+
 ## Join Us
 <a href="https://discord.gg/CtWfrZQNhY" target="_blank">
     <img src="https://discord.com/api/guilds/1403395736405803229/widget.png?style=banner2" alt="Spellbound Community Discord">
